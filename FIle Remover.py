@@ -110,5 +110,5 @@ def get_file_or_folder_age(path):
 
 if __name__ == '__main__':
     main() 
-
+#Copyright (c) 2022 Abhinav Anand
         
